@@ -3,6 +3,6 @@ main()
 {
 add();
 sub();
-mul();
+printf("the mul of two numbers is");
 div();
 }
