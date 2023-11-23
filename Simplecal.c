@@ -1,10 +1,10 @@
 #include<stdio.h>
 main()
 {
-  ********************
+  
    printf("the sum of two numbers is");
 sub();
-mul();
+printf("the mul of two numbers is");
 div();
-  ********************
+  
 }
